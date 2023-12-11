@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼 I'm working at [Arses](arseskara.site) 
+- 💼 I'm working at <a href="https://arseskara.site/" target="_blank">Arses</a>
 - ❤️ I Love JS
 - 👨🏾‍💻 I’m currently learning NestJS & DB
 - you can connect with me by email ---> mmmousavi.p@gmail.com
