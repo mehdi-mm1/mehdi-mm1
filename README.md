@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="100%" alt="I'm Mehdi" src="./assets/gh-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="100%" alt="I'm Mehdi" src="./assets/gh-header-2.png" /></a></p>
 
 **About me**
 
